@@ -1,0 +1,56 @@
+<rdf:RDF xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+      <Alignment>
+        <map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300039548"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Table"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300037680"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Furniture"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300039338"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Desk"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038634"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Sofa"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038697"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Bed"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300037772"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#Chair"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038936"/>
+          <entity2 rdf:resource="http://pi.pauwel.be/voc/furniture#FileCabinet"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map>
+        
+        
+      </Alignment>
+    </rdf:RDF>

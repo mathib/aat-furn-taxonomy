@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>http://pi.pauwel.be/voc/furniture</onto1>
+	<onto2>https://w3id.org/con-tax/components/aat-furn</onto2>
+	<uri1>http://pi.pauwel.be/voc/furniture</uri1>
+	<uri2>https://w3id.org/con-tax/components/aat-furn</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Furniture"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300037680"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9207</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Sofa"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038634"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7147</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Desk"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300039338"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7147</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Table"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300164542"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6824</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Closet"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300176430"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6824</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://dbpedia.org/resource/Closet"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300176430"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6824</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://dbpedia.org/resource/Bed"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038144"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6812</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Bed"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038144"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6812</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://dbpedia.org/resource/Table_(furniture)"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300136596"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6807</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://dbpedia.org/resource/Chair"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038148"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6721</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#Chair"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300038148"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6721</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://pi.pauwel.be/voc/furniture#FileCabinet"/>
+			<entity2 rdf:resource="https://w3id.org/con-tax/components/aat-furn#300429683"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6481</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

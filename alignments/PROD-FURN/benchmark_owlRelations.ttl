@@ -1,0 +1,15 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix aat-furn: <https://w3id.org/con-tax/components/aat-furn#> .
+@prefix al: <http://knowledgeweb.semanticweb.org/heterogeneity/alignment#> .
+@prefix furn: <http://pi.pauwel.be/voc/furniture#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+furn:Bed owl:equivalentClass aat-furn:300038697 .
+furn:Chair owl:equivalentClass aat-furn:300037772 .
+aat-furn:300039237 rdfs:subClassOf furn:Closet .
+furn:Desk owl:equivalentClass aat-furn:300039338 .
+furn:FileCabinet owl:equivalentClass aat-furn:300038936 .
+furn:Furniture owl:equivalentClass aat-furn:300037680 .
+furn:Shelf owl:equivalentClass aat-furn:300039300 .
+furn:Sofa owl:equivalentClass aat-furn:300038634 .
+furn:Table owl:equivalentClass aat-furn:300039548 .
